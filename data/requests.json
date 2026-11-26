@@ -1,0 +1,95 @@
+[
+  {
+    "id": 1795661545460,
+    "name": "habibibi",
+    "phone": "0943898345",
+    "type": "isolated",
+    "desc": "xung quanh anh toàn là nước êi",
+    "status": "completed",
+    "lat": 16.06875,
+    "lng": 108.14674,
+    "time": "09:52:25",
+    "createdAt": "2026-11-26T02:52:25.408Z",
+    "updatedAt": "2026-11-26T05:52:04.347Z"
+  },
+  {
+    "id": 1795661248998,
+    "name": "habibi",
+    "phone": "0994735483",
+    "type": "food",
+    "desc": "thiếu nước uống",
+    "status": "pending",
+    "lat": 16.0688,
+    "lng": 108.14673,
+    "time": "09:47:28",
+    "createdAt": "2026-11-26T02:47:28.882Z"
+  },
+  {
+    "id": 1795590894129,
+    "name": "Văn Bảy",
+    "phone": "0957892567",
+    "type": "medical",
+    "desc": "bị thương ở chân khi đang lội nước lụt ( bị đinh găm)",
+    "status": "pending",
+    "lat": 16.06466,
+    "lng": 108.1974,
+    "time": "14:14:54",
+    "createdAt": "2026-11-25T07:14:54.212Z"
+  },
+  {
+    "id": 1795236171813,
+    "name": "hu hu",
+    "phone": "0905452673",
+    "type": "food",
+    "desc": "không có nước uống",
+    "status": "pending",
+    "lat": 16.07068,
+    "lng": 108.1529,
+    "time": "11:42:51",
+    "createdAt": "2026-11-21T04:42:51.848Z"
+  },
+  {
+    "id": 1700000001,
+    "name": "Nguyễn Văn An",
+    "phone": "0905123456",
+    "type": "medical",
+    "desc": "Người già khó thở cần oxy khẩn cấp, nước bắt đầu tràn vào nhà.",
+    "status": "pending",
+    "lat": 16.0611,
+    "lng": 108.2208,
+    "time": "08:30:15"
+  },
+  {
+    "id": 1700000002,
+    "name": "Trần Thị Bình",
+    "phone": "0914987654",
+    "type": "food",
+    "desc": "Gia đình 4 người (có 2 trẻ nhỏ) hết lương thực và nước ngọt ngày thứ 2.",
+    "status": "in_progress",
+    "lat": 16.0289,
+    "lng": 108.1972,
+    "time": "09:15:40"
+  },
+  {
+    "id": 1700000003,
+    "name": "Lê Hoàng Cường",
+    "phone": "0935555666",
+    "type": "isolated",
+    "desc": "Nhà cấp 4 vùng trũng bị ngập sâu hơn 1m, cần ca nô hỗ trợ di dời.",
+    "status": "pending",
+    "lat": 16.0125,
+    "lng": 108.145,
+    "time": "09:45:10"
+  },
+  {
+    "id": 1700000004,
+    "name": "Phạm Thị Dung",
+    "phone": "0905999888",
+    "type": "medical",
+    "desc": "Phụ nữ mang thai tháng thứ 8 có dấu hiệu chuyển dạ, cần cano y tế tiếp cận.",
+    "status": "completed",
+    "lat": 16.082,
+    "lng": 108.2435,
+    "time": "07:10:00"
+  }
+]

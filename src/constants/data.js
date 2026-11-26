@@ -1,9 +1,9 @@
 import { Ambulance, Package, Home } from 'lucide-react';
 
 export const REQUEST_TYPES = {
-  MEDICAL: { id: 'medical', label: 'Cần y tế gấp', icon: Ambulance, color: 'bg-red-500', textColor: 'text-red-600' },
-  FOOD: { id: 'food', label: 'Thiếu lương thực', icon: Package, color: 'bg-orange-500', textColor: 'text-orange-600' },
-  ISOLATED: { id: 'isolated', label: 'Nhà bị cô lập', icon: Home, color: 'bg-yellow-500', textColor: 'text-yellow-600' },
+  MEDICAL: { id: 'medical', label: 'Cần y tế gấp', icon: Ambulance, color: 'bg-red-500', textColor: 'text-red-600', borderTopColor: 'border-t-red-600' },
+  FOOD: { id: 'food', label: 'Thiếu lương thực', icon: Package, color: 'bg-orange-500', textColor: 'text-orange-600', borderTopColor: 'border-t-orange-600' },
+  ISOLATED: { id: 'isolated', label: 'Nhà bị cô lập', icon: Home, color: 'bg-yellow-500', textColor: 'text-yellow-600', borderTopColor: 'border-t-yellow-600' },
 };
 
 export const STATUS = {
